@@ -136,6 +136,8 @@ El enfoque combina **Ingeniería de Control, Electrónica Analógica, Ciencias d
 ### Diagrama biológico
 
 ![Diagrama biológico del sistema endocrino elaborado en BioRender](Diagrama_biologico_endocrino.png)
+<img width="777" height="498" alt="image" src="https://github.com/user-attachments/assets/c4b54544-fef3-4db5-aef7-02bf729160bd" />
+
 
 *Figura. Diagrama biológico elaborado en BioRender: relaciona la secreción hormonal de la glándula endocrina, su transporte, el almacenamiento en la tiroides, la resistencia dinámica asociada al páncreas, la degradación hormonal y la señal que llega al tejido receptor (receptores de los huesos) con los elementos del circuito eléctrico equivalente.*
 
