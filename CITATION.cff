@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: >-
+  Práctica 4: modelado y control del sistema endócrino
+  mediante un circuito eléctrico equivalente de segundo orden
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gael Sebastian
+    family-names: Andrade Arellano
+    email: l232121@tectijuana.edu.mx
+    affiliation: TecNM/IT Tijuana
+repository-code: 'https://github.com/l23212177-ship-it/MSFP4'
+keywords:
+  - Sistema endócrino
+  - Circuito RLC de segundo orden
+  - Analogía eléctrica
+  - Controlador PID
+  - Simulación numérica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-17'
